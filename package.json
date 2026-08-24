@@ -1,0 +1,12 @@
+{
+  "name": "rural-healthcare-telemedicine",
+  "version": "1.0.0",
+  "description": "Rural Healthcare Telemedicine Platform Prototype (E-Sanjeevani Gramin)",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080"
+  },
+  "keywords": ["telemedicine", "asha-worker", "rural-health", "abdm"],
+  "author": "Manjunathan K",
+  "license": "MIT"
+}
